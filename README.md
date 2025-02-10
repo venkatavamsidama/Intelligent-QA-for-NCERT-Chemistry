@@ -1,5 +1,5 @@
-# Intelligent QA for NCERT Chemistry
-This project leverages cutting-edge natural language processing (NLP) techniques to create an intelligent question-answering system for NCERT Chemistry. The system is designed to understand complex questions and generate precise answers using a combination of advanced technologies.
+# AskDocAI
+This project leverages cutting-edge natural language processing (NLP) techniques to create an intelligent question-answering system for any doc. The system is designed to understand complex questions and generate precise answers using a combination of advanced technologies.
 
 ## Technologies Used:
 
